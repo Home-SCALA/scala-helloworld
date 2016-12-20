@@ -1,5 +1,6 @@
 //package org.glassfish.my
 //
+//import org.junit.Assert._
 //import org.junit.runner.RunWith
 //import org.scalatest.junit.JUnitRunner
 //import org.scalatest.FlatSpec
@@ -10,7 +11,6 @@
 //  "the thingy" should "do what I expect it to do" in {
 //    val someValue = false;
 //
-////    assert(someValue === false)
+//    assertFalse( someValue )
 //  }
 //}
-//
