@@ -1,10 +1,10 @@
 package org.glassfish.samples
 
 ///*
-// * ScalaTest facilitates different styles of testing by providing traits you can mix together to get the behavior and syntax you prefer.
-// * A few examples are included here, or more information, visit: http://www.scalatest.org/
-// * One way to use ScalaTest is to help make JUnit or TestNG tests more clear and concise. Here's an example:
-// */
+//* ScalaTest facilitates different styles of testing by providing traits you can mix together to get the behavior and syntax you prefer.
+//* A few examples are included here, or more information, visit: http://www.scalatest.org/
+//* One way to use ScalaTest is to help make JUnit or TestNG tests more clear and concise. Here's an example:
+//*/
 //import scala.collection.mutable.Stack
 //import org.scalatest.Assertions
 //import org.junit.Test
@@ -88,4 +88,3 @@ package org.glassfish.samples
 //    }
 //  }
 //}
-
